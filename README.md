@@ -134,11 +134,10 @@ Green-Wave-Emergency-Siren-Classifier/
 ## 👨‍💻 Project Team
 
 **Harsh Kumar**  
-B.Tech – Computer Science and Engineering (AI & ML)  
+B.Tech – Computer Science and Engineering 
 IILM University, Gurugram
 
 **Group Members:**
-Harsh Kumar 
 Karan Singh 
 Tanish singh
 

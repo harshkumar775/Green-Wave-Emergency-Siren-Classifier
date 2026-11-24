@@ -144,7 +144,7 @@ Tanish singh
 ## 📚 Academic Information
 
 - University: IILM University, Gurugram
-- Course: B.Tech CSE (AI & ML)
+- Course: B.Tech CSE 
 - Subject: IoT and Robotics
 - Course Code: CSE25309
 
